@@ -38,8 +38,8 @@ Este proyecto contiene una aplicación simple para gestionar empleados y gerente
 
 
 ## Menu principal
-![Texto alternativo](https://github.com/PaolaMoncayo/Gestion_Empleados_POOCSharp/issues/1#issue-2008988782)
+![Menu_Principal](https://user-images.githubusercontent.com/87495121/285341415-2fb7aa9e-3961-4395-bac6-3d12c95dc654.png)
 
 ## Informacion Ingresada
 
-![Texto alternativo](https://github.com/PaolaMoncayo/Gestion_Empleados_POOCSharp/issues/2#issue-2008988951)
+![InformacionIngresada](https://github.com/PaolaMoncayo/Gestion_Empleados_POOCSharp/assets/87495121/ffa9a68f-758b-4f5b-ad6e-39a76aea259b)
