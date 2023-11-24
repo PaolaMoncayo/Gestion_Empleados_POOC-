@@ -4,7 +4,7 @@ Este proyecto contiene una aplicación simple para gestionar empleados y gerente
 ## Requisitos
 - **Entorno de desarrollo integrado (IDE):** Se recomienda utilizar Visual Studio o Visual Studio Code con soporte para C#.
 - **.NET Core SDK:**
-- 
+
 ## Instrucciones
 
 1. **Clonar el repositorio:** Para utilizar el programa, clona el repositorio en su maquina con el siguiente link https://github.com/PaolaMoncayo/Gestion_Empleados_POOCSharp.git
