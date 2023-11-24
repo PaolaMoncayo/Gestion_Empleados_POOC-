@@ -1,0 +1,15 @@
+C:\Users\comby\OneDrive\Escritorio\WEB Avanzada\Primer Parcial\Moncayo_Alison_GestionEmpleado\Gestion_Empleado\bin\Debug\net6.0\Gestion_Empleado.exe
+C:\Users\comby\OneDrive\Escritorio\WEB Avanzada\Primer Parcial\Moncayo_Alison_GestionEmpleado\Gestion_Empleado\bin\Debug\net6.0\Gestion_Empleado.deps.json
+C:\Users\comby\OneDrive\Escritorio\WEB Avanzada\Primer Parcial\Moncayo_Alison_GestionEmpleado\Gestion_Empleado\bin\Debug\net6.0\Gestion_Empleado.runtimeconfig.json
+C:\Users\comby\OneDrive\Escritorio\WEB Avanzada\Primer Parcial\Moncayo_Alison_GestionEmpleado\Gestion_Empleado\bin\Debug\net6.0\Gestion_Empleado.dll
+C:\Users\comby\OneDrive\Escritorio\WEB Avanzada\Primer Parcial\Moncayo_Alison_GestionEmpleado\Gestion_Empleado\bin\Debug\net6.0\Gestion_Empleado.pdb
+C:\Users\comby\OneDrive\Escritorio\WEB Avanzada\Primer Parcial\Moncayo_Alison_GestionEmpleado\Gestion_Empleado\obj\Debug\net6.0\Gestion_Empleado.csproj.AssemblyReference.cache
+C:\Users\comby\OneDrive\Escritorio\WEB Avanzada\Primer Parcial\Moncayo_Alison_GestionEmpleado\Gestion_Empleado\obj\Debug\net6.0\Gestion_Empleado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\comby\OneDrive\Escritorio\WEB Avanzada\Primer Parcial\Moncayo_Alison_GestionEmpleado\Gestion_Empleado\obj\Debug\net6.0\Gestion_Empleado.AssemblyInfoInputs.cache
+C:\Users\comby\OneDrive\Escritorio\WEB Avanzada\Primer Parcial\Moncayo_Alison_GestionEmpleado\Gestion_Empleado\obj\Debug\net6.0\Gestion_Empleado.AssemblyInfo.cs
+C:\Users\comby\OneDrive\Escritorio\WEB Avanzada\Primer Parcial\Moncayo_Alison_GestionEmpleado\Gestion_Empleado\obj\Debug\net6.0\Gestion_Empleado.csproj.CoreCompileInputs.cache
+C:\Users\comby\OneDrive\Escritorio\WEB Avanzada\Primer Parcial\Moncayo_Alison_GestionEmpleado\Gestion_Empleado\obj\Debug\net6.0\Gestion_Empleado.dll
+C:\Users\comby\OneDrive\Escritorio\WEB Avanzada\Primer Parcial\Moncayo_Alison_GestionEmpleado\Gestion_Empleado\obj\Debug\net6.0\refint\Gestion_Empleado.dll
+C:\Users\comby\OneDrive\Escritorio\WEB Avanzada\Primer Parcial\Moncayo_Alison_GestionEmpleado\Gestion_Empleado\obj\Debug\net6.0\Gestion_Empleado.pdb
+C:\Users\comby\OneDrive\Escritorio\WEB Avanzada\Primer Parcial\Moncayo_Alison_GestionEmpleado\Gestion_Empleado\obj\Debug\net6.0\Gestion_Empleado.genruntimeconfig.cache
+C:\Users\comby\OneDrive\Escritorio\WEB Avanzada\Primer Parcial\Moncayo_Alison_GestionEmpleado\Gestion_Empleado\obj\Debug\net6.0\ref\Gestion_Empleado.dll
